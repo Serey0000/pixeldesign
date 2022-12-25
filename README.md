@@ -1,6 +1,10 @@
 # pixeldesign
 <html>
     <body>
+        <head>
+        <title>Pixeldesign</title>
+        <link rel="stylesheet" href="style.css"/>
+        </head>
         <header>
             <img src="/uploads/2020/11/logo_0_1606475988.png"/>
             <a href="#news">Новости</a>
